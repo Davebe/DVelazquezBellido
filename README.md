@@ -23,6 +23,7 @@ La imagen para confirmar es la siguiente
 ### D) Edita README.md explicando lo que has realizado
   1.	He abierto el archivo de mi repositorio con el nombre README.md y he añadido el texto de cómo he realizado la actividad que se pedía en Markdown. En el texto se pide que tengan las siguientes
 
-### E) Finalmente he completado todo lo que se me solicitaba con los requisitos de escritura en Markdown. A continuación, dejo el enlace de mi repositorio.
+### E) Enviar enlace
+  Finalmente he completado todo lo que se me solicitaba con los requisitos de escritura en Markdown. A continuación, dejo el enlace de mi repositorio.
 
 Repositorio DVelazquezBellido __________
