@@ -13,8 +13,7 @@ Una vez que he visto todos los apartados de temaría y estudiado la edición de 
   1. Me he registrado en la página _Github_ siguiendo todos los pasos que me marcaban y verificando el correo electrónico.
   2.	En la segunda parte nos pedían que subiera los tres archivos creados. He seleccionado los tres archivos y he arrastrado directamente a mi repositorio (_Se puede hacer a través de la opción “Upload file”_) para finalizar de subir los archivos.
 
-![La imagen para confirmar es la siguiente]([url=https://ibb.co/fOE21G][img]https://preview.ibb.co/hfPfow/Captura_de_pantalla_2017_10_12_a_las_10_30_53.png[/img][/url]
-[url=https://es.imgbb.com/]imagen gratuita[/url])
+[![La imagen para confirmar es la siguiente](https://ibb.co/fOE21G)]
 
 ### C) Usa Rawgit para ver html de GitHub
   1.	He seleccionado en mi repositorio en el archivo que tenía creado en .html
