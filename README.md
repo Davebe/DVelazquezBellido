@@ -29,6 +29,6 @@ Una vez que he visto todos los apartados de temaría y estudiado la edición de 
      *Cursiva y negrita
 
 ### E) Enviar enlace
-  *Finalmente he completado todo lo que se me solicitaba con los requisitos de escritura en Markdown. A continuación, dejo el enlace de mi repositorio.
+  * Finalmente he completado todo lo que se me solicitaba con los requisitos de escritura en Markdown. A continuación, dejo el enlace de mi repositorio.
 
 [Repositorio DVelazquezBellido]()
