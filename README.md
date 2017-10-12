@@ -15,13 +15,13 @@ Una vez que he visto todos los apartados de temaría y estudiado la edición de 
 La imagen para confirmar es la siguiente
 
 ### 3. Usa Rawgit para ver html de GitHub**
-  *1.	He seleccionado en mi repositorio en el archivo que tenía creado en .html
-  *2.	He escogido la opción de copiar enlace que me sale al darle al botón derecho encima del archivo.
-  *3.	He pegado la dirección que me ha dado que en mi caso es ____esta_____ y he seleccionado la opción de “Use this URL for deelopment”
- *4.	He abierto una nueva pestaña y pegado la dirección con el resultado de que se me ve tal como esta escrito.
+  1.	He seleccionado en mi repositorio en el archivo que tenía creado en .html
+  2.	He escogido la opción de copiar enlace que me sale al darle al botón derecho encima del archivo.
+  3.	He pegado la dirección que me ha dado que en mi caso es ____esta_____ y he seleccionado la opción de “Use this URL for deelopment”
+ 4.	He abierto una nueva pestaña y pegado la dirección con el resultado de que se me ve tal como esta escrito.
 
 ### 4. Edita README.md explicando lo que has realizado**
-  *1.	He abierto el archivo de mi repositorio con el nombre README.md y he añadido el texto de cómo he realizado la actividad que se pedía en Markdown. En el texto se pide que tengan las siguientes
+  1.	He abierto el archivo de mi repositorio con el nombre README.md y he añadido el texto de cómo he realizado la actividad que se pedía en Markdown. En el texto se pide que tengan las siguientes
 
 ### 5. Finalmente he completado todo lo que se me solicitaba con los requisitos de escritura en Markdown. A continuación, dejo el enlace de mi repositorio.
 
