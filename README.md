@@ -18,7 +18,7 @@ Una vez que he visto todos los apartados de temaría y estudiado la edición de 
 ### C) Usa Rawgit para ver html de GitHub
   1.	He seleccionado en mi repositorio en el archivo que tenía creado en .html
   2.	He escogido la opción de copiar enlace que me sale al darle al botón derecho encima del archivo.
-  3.	He pegado la dirección que me ha dado que en mi caso es [siguiente](https://ibb.co/fOE21G) y he seleccionado la opción de _“Use this URL for deelopment”_
+  3.	He pegado la dirección que me ha dado que en mi caso es [siguiente](https://rawgit.com/Davebe/DVelazquezBellido/master/Sin%20t%C3%ADtulo.html) y he seleccionado la opción de _“Use this URL for deelopment”_
  4.	He abierto una nueva pestaña y pegado la dirección con el resultado de que se me ve tal como esta escrito.
 
 ### D) Edita README.md explicando lo que has realizado
@@ -31,4 +31,4 @@ Una vez que he visto todos los apartados de temaría y estudiado la edición de 
 ### E) Enviar enlace
   * Finalmente he completado todo lo que se me solicitaba con los requisitos de escritura en Markdown. A continuación, dejo el enlace de mi repositorio.
 
-[Repositorio DVelazquezBellido]()
+[Repositorio DVelazquezBellido](https://github.com/Davebe/DVelazquezBellido)
