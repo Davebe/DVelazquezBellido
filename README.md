@@ -33,4 +33,4 @@ Una vez que he visto todos los apartados de temaría y estudiado la edición de 
 
 [Repositorio DVelazquezBellido](https://github.com/Davebe/DVelazquezBellido)
 
-###### David Velazquez Bellido
+###### David Velázquez Bellido
