@@ -5,9 +5,9 @@
 Una vez que he visto todos los apartados de temaría y estudiado la edición de documentos con Markdown, he comenzado a realizar las actividades.
 
 ### *a) Crea documento
-  *1. Lo primero que he realizado es abrir en mi caso TextEdit _(por mi sistema operativo macOS)_ y he creado los tres archivos que nos solicitan, uno en **RTF**, otro en **XML** y un último en **HTML**. También nos pendían que pegara el texto RTF que había en el ejemplo de los apuntes.
-  *2. En el momento de guardar, le he puesto que la extensión sea .rtf (se puede guardar con otro formato y luego cambiar manualmente pero ya que podía elegir la forma de guardado, lo he hecho directamente).
-  *3. He abierto el documento con el programa Open Office y Word y no he tenido ningún problema. Se visualiza tal como está escrito.
+  1. Lo primero que he realizado es abrir en mi caso TextEdit _(por mi sistema operativo macOS)_ y he creado los tres archivos que nos solicitan, uno en **RTF**, otro en **XML** y un último en **HTML**. También nos pendían que pegara el texto RTF que había en el ejemplo de los apuntes.
+  2. En el momento de guardar, le he puesto que la extensión sea .rtf (se puede guardar con otro formato y luego cambiar manualmente pero ya que podía elegir la forma de guardado, lo he hecho directamente).
+  3. He abierto el documento con el programa Open Office y Word y no he tenido ningún problema. Se visualiza tal como está escrito.
 
 ### * **b) Llena un repositorio GitHub**
   *1. Me he registrado en la página Github siguiendo todos los pasos que me marcaban y verificando el correo electrónico.
